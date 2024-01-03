@@ -1,6 +1,6 @@
 site:
   name: TrustLinux
-  site: 'https://astrowind.vercel.app'
+  site: 'https://trustlinux.9ft.pages.dev'
   base: '/'
   trailingSlash: false
 
@@ -9,9 +9,9 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: 'AstroWind'
-    template: '%s — AstroWind'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+    default: 'TrustLinux'
+    template: '%s — TrustLinux'
+  description: "TrustLinux is a blog about Linux, open source software, and the community around it."
   robots:
     index: true
     follow: true
